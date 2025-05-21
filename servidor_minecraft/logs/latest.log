@@ -665,3 +665,28 @@ Missing minecraft:fluid:
 [21May2025 17:32:28.596] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
 [21May2025 17:33:16.541] [Worker-Main-20/INFO] [ModernFix/]: Instantiating Mojang DFU
 [21May2025 17:37:27.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [Suit Up]
+[21May2025 17:38:37.298] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[21May2025 17:38:37.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [A Strange Grave Dust]
+[21May2025 17:38:59.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [Diamonds!]
+[21May2025 17:40:04.708] [Worker-Main-8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[21May2025 17:40:26.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [Knowledge of Death]
+[21May2025 17:40:26.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [Stolen Magic]
+[21May2025 17:44:36.328] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/8790, l='ServerLevel[world]', x=1392.50, y=55.00, z=-84.50]
+[21May2025 17:45:50.107] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/9676, l='ServerLevel[world]', x=999.50, y=22.00, z=397.50] as it would cause deadlock
+[21May2025 17:45:54.699] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/9819, l='ServerLevel[world]', x=975.50, y=-3.00, z=402.50] as it would cause deadlock
+[21May2025 17:46:04.532] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/10022, l='ServerLevel[world]', x=913.50, y=-3.00, z=359.50] as it would cause deadlock
+[21May2025 17:46:06.202] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/10052, l='ServerLevel[world]', x=902.50, y=-3.00, z=399.50] as it would cause deadlock
+[21May2025 17:46:06.247] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/10059, l='ServerLevel[world]', x=902.50, y=-3.00, z=407.50] as it would cause deadlock
+[21May2025 17:46:08.556] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/10100, l='ServerLevel[world]', x=881.50, y=22.00, z=362.50] as it would cause deadlock
+[21May2025 17:46:10.411] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/10142, l='ServerLevel[world]', x=926.50, y=-28.00, z=441.50] as it would cause deadlock
+[21May2025 17:46:10.429] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/10144, l='ServerLevel[world]', x=934.50, y=-28.00, z=441.50] as it would cause deadlock
+[21May2025 17:47:42.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [Cover Me with Diamonds]
+[21May2025 17:47:49.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [Ambush]
+[21May2025 17:47:53.344] [Server thread/WARN] [tombstone/]: The death event of the player IkappoAnyho_ was canceled by another mod
+[21May2025 17:47:53.346] [Server thread/INFO] [tombstone/]: The player IkappoAnyho_ has successfully been saved
+[21May2025 17:48:05.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ was slain by Vindicator
+[21May2025 17:48:05.006] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[21May2025 17:48:05.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ has made the advancement [Your First Grave]
+[21May2025 17:48:06.232] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[21May2025 17:48:15.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IkappoAnyho_ lost connection: Disconnected
+[21May2025 17:48:15.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IkappoAnyho_ left the game
